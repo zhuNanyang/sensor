@@ -1,5 +1,8 @@
 # sensor
 传感器的分类和提取三元组内容
+
+
+
 classifier:
     ELMO文件：用于对15种传感器分类；
     process_data文件：下是对原始数据的处理；
